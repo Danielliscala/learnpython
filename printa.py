@@ -1,5 +1,5 @@
 #print absolute value of an integer
-a = 100
+a = raw_input("please input a:")
 if a >= 0:
     print a
 else:
